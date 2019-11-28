@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.lettre {
+  display: inline-block;
+  margin: 5px;
+  border: solid 2px grey;
+  padding: 9px;
+  font-weight : bolder;
+
+  
+
+}
+
+
+.mot{
+  color: red; 
+  font-weight: lighter;
+  border: solid 3px grey;
+}
