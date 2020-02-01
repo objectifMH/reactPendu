@@ -9,7 +9,10 @@
   border: solid 2px grey;
   padding: 9px;
   font-weight : bolder;
+<<<<<<< HEAD
   
+=======
+>>>>>>> 31ecd6f4b76fec97c8fd45c0af76b796c45d013a
 
   
 
@@ -17,6 +20,7 @@
 
 
 .mot{
+<<<<<<< HEAD
   
   font-weight: lighter;
   border: solid 3px grey;
@@ -39,3 +43,9 @@
 .gagne {
   font-size: 25px;
 }
+=======
+  color: red; 
+  font-weight: lighter;
+  border: solid 3px grey;
+}
+>>>>>>> 31ecd6f4b76fec97c8fd45c0af76b796c45d013a

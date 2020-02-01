@@ -18,10 +18,14 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+<<<<<<< HEAD
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
   ]
+=======
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+>>>>>>> 31ecd6f4b76fec97c8fd45c0af76b796c45d013a
 }
