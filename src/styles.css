@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.lettre {
+  display: inline-block;
+  margin: 5px;
+  border: solid 2px grey;
+  padding: 9px;
+  font-weight : bolder;
+  
+
+  
+
+}
+
+
+.mot{
+  
+  font-weight: lighter;
+  border: solid 3px grey;
+}
+
+.rouge {
+  color: red; 
+}
+
+.vert {
+  color: green;
+}
+
+.isSelected {
+  background : grey ;
+  border : solid 2px black ;
+  color : rgb(87, 78, 78) ; 
+}
+
+.gagne {
+  font-size: 25px;
+}
