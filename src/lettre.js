@@ -4,7 +4,6 @@ import React from "react";
 //function Lettre() {
 class Lettre extends React.Component {
   
-<<<<<<< HEAD
   
   render() {
 
@@ -45,18 +44,3 @@ export default Lettre;
   </p>
 );
 */
-=======
-  render(props) {
-    return (
-          <p 
-          className={this.props.class} 
-          onClick={() => this.props.onClick()}
-            >
-            {this.props.keyBoard === true ? this.props.maLettre  : this.props.maLettre}
-          </p>
-    );
-  }i
-}
-
-export default Lettre;
->>>>>>> 31ecd6f4b76fec97c8fd45c0af76b796c45d013a
